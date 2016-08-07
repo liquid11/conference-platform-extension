@@ -1,4 +1,4 @@
-# [Firefox Extensions](https://github.com/muaz-khan/Firefox-Extensions)
+# [Firefox Extensions](https://github.com/liquid11/conference-platform-extension)
 
 > Enable screen capturing in Firefox for both localhost/127.0.0.1 and `https://www.webrtc-experiment.com` pages.
 
@@ -105,7 +105,7 @@ Try this demo after installing above addon:
 
 ## Wanna Deploy it Yourself?
 
-1. Open [`index.js`](https://github.com/muaz-khan/Firefox-Extensions/blob/master/enable-screen-capturing/index.js)
+1. Open [`index.js`]
 2. Go to line 7
 3. Replace `arrayOfMyOwnDomains` array with your own list of domains
 
