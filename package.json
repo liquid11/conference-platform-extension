@@ -1,0 +1,16 @@
+{
+  "title": "Enable Screen Capturing in",
+  "name": "conference-platfrom-screen-capturing",
+  "id": "conferenceextension@conferenceplatform.com",
+  "version": "1.0",
+  "description": "This extension enables screen capturing support in for https://wwww.conferenceplatform.com.",
+  "main": "index.js",
+  "author": "Arsalan Khan <arsalan@tezrosolutions.com>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "permissions": {
+    "unsafe-content-script": true
+  }
+}
